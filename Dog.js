@@ -1,10 +1,6 @@
 function Dog() {
-<<<<<<< HEAD
-    //
     // second comment
     // third comment
-=======
->>>>>>> parent of 39608aa... add first comment
     this.stomach = [];
 }
 
