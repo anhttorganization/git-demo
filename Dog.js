@@ -1,4 +1,5 @@
 function Dog() {
+    //
     this.stomach = [];
 }
 
