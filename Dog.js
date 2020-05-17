@@ -1,6 +1,7 @@
 function Dog() {
     //
     // second comment
+    // third comment
     this.stomach = [];
 }
 
